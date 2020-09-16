@@ -1,2 +1,4 @@
 # Project-Portfolip
-Portfolio template
+Front End design for a portfoli
+
+
